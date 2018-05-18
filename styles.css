@@ -1,0 +1,44 @@
+h1{
+    color: #CC00CC;font-family: impact;
+}
+
+h2{
+    color: deeppink ;
+}
+
+p{
+    color: darkorchid
+}
+
+#block{
+    width: 500px;
+    background-color: lightblue;
+    border: dashed blue;
+    margin: 0.5em;
+    padding: 1em
+}
+
+#one{
+    width: 500px;
+    background-color:  powderblue;
+    border: dashed blue;
+    margin: 0.5em;
+    padding: 1em
+}
+
+#two{
+    width: 500px;
+    background-color:lightsteelblue;
+    border: dashed blue;
+    margin: 0.5em;
+    padding: 1em
+}
+
+#three{
+    width: 560px;
+    background-color: gray;
+    border:0.7rem double #32a1ce;
+    margin: 0.5em;
+    padding: 1em
+    
+}
